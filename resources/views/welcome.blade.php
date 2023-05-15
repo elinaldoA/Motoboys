@@ -74,7 +74,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                Motobys
+                Motoboys
             </div>
 
             <div class="links">
